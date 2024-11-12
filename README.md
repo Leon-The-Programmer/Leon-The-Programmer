@@ -10,6 +10,9 @@ To express an immeasurable interest to work in the field of finance, I've indepe
 
 📱[Get It On Google Play Store (Android 12 & Up)](https://play.google.com/store/apps/details?id=com.lymann_alpha.subcryption)
 
+### App Promo Vid
+[![App Promo](https://img.youtube.com/vi/8OrsNczU3W0/maxresdefault.jpg)](https://www.youtube.com/watch?v=8OrsNczU3W0)
+
 ![Subcryption Screenhot](https://github.com/Leon-The-Programmer/Leon-The-Programmer/blob/main/Subcryption%20Featured%20Png.png?raw=true)
 
 ### `The Back-End Architecture`
