@@ -45,7 +45,7 @@ Rather than presenting everything as a conventional project list, here are some 
         <img src="https://img.youtube.com/vi/8OrsNczU3W0/maxresdefault.jpg" width="400">
       </a>
       <br>
-      <sub>▶ App Promo · 42 seconds</sub>
+      <sub>▶ App Promo · 42 seconds, doesn't even take a minute to tantalize.</sub>
     </td>
     <td align="center">
       <img src="https://github.com/Leon-The-Programmer/Leon-The-Programmer/blob/main/Subcryption%20Featured%20Png.png" width="400">
@@ -79,7 +79,7 @@ That doesn't diminish what the project represents.
 
 **The product was built. The systems were designed. The problems were solved.**
 
-The repository remains as a record of that work and the engineering experience it gave me.
+The repository remains as a record of that work and the engineering experience it gave me. I'd be open to walk you through private codebase, should we ever make it to conduct an interview.
 
 ---
 
