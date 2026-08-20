@@ -6,7 +6,7 @@ Hi, I'm **Subhanshu** — although **Leon** is my English name, and probably the
 
 My work has taken me across **game development, software applications, backend systems, and financial technology**. Different domains, different constraints, different tools — but the same underlying fascination:
 
-**understanding a problem deeply enough to build the thing myself.**
+**understanding a problem deeply enough to build the thing myself. And sometimes with a team.**
 
 ---
 
